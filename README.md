@@ -24,15 +24,15 @@
 
 # Description
 
-Block Breaker, with visual effects and score system.
+Block Breaker, with visual effects and score system. Smash all blocks without letting the ball drop in order to progress to the next level.
 
 # Visual Style
-Cartoony in various styles.
+Blocky, colorful.
 
 <img src="images/screenshot.png" width="500">
 
 # Player Objectives
-- Break all the squares in the scene
-- Don't let the ball fall
+- Break all the blocks in the scene
+- Don't let the ball drop.
 
 <img src="images/gameplay.gif" width="500">
